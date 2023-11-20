@@ -1,0 +1,23 @@
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form1.resources
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\bin\Debug\employee.mdf
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\bin\Debug\employee_log.ldf
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.RegisterForm.resources
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\bin\Debug\Guna.UI.dll
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.MainForm.resources
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddEmployee.resources
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Dashboard.resources
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.manifest
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.application
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe.manifest
+C:\Users\kalpa\Desktop\C# Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.application
